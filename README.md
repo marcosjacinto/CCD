@@ -1,4 +1,4 @@
-# Estrategia para Preenchimento de Falhas usando Deep Learning e Análise do Potencial Eólico atraves da Distribuicão de Weibull - CCD 2019
+# Estratégia para Preenchimento de Falhas usando Deep Learning e Análise do Potencial Eólico atraves da Distribuicão de Weibull - CCD 2019
 
 ## Introdução
 
